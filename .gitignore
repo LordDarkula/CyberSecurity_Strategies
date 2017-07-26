@@ -3,3 +3,4 @@
 *.ipynb_checkpoints
 sample_X.npy
 tags.npy
+/venv/
